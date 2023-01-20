@@ -1,0 +1,60 @@
+---------------------------------------------------------------------------------------------------------------------------
+Som del av klassifikasjonsmetoden Naive Bayes gjøres en forenklende (eller "naiv") antakelse. Svar på følgende
+
+1. Forklar hva denne antakelsen innebærer.
+2. Denne naive eller forenklende antakelsen reflekteres også i formelen som brukes for å regne ut sannsynlighetene vi 
+trenger i Naive Bayes. Vis hvordan antakelsen uttrykkes i formelen.
+
+
+Uavhengighetsantakelsen før / etter
+Før:
+P(X|C) = P(x1, x2, x3, ..., xn | C)
+
+Etter: 
+P(X|C) ≈ P(x1|C) * P(x2|C) * P(x3|C) * ... * P(xn|C)
+
+
+P(x1, x2, x3, ..., xn | C)  ≈   P(x1|C) * P(x2|C) * P(x3|C) * ... * P(xn|C)
+
+
+
+
+
+1. Forklar hva denne antakelsen innebærer.
+Fasit: 
+Vi antar at sannsynligheten for de ulike trekkene er uavhengige av hverandre, gitt klassen. Dette gjør det mer
+håndterbart å estimere sannsynlighetene
+
+GPT:
+Den naive eller forenklende antakelsen i Naive Bayes klassifikasjonsmetoden innebærer at alle funksjonsverdiene (feature 
+values) i en datamengde er uavhengige av hverandre, gitt en bestemt klasse. Dette betyr at sannsynligheten for at en 
+funksjonsverdi skal opptre, ikke påvirkes av tilstedeværelsen eller fraværet av andre funksjonsverdier i datamengden.
+
+CoPilot:
+At alle variablene er uavhengige av hverandre. Dette gjør det enklere å beregne sannsynligheten for en klasse. 
+
+
+
+2. Denne naive eller forenklende antakelsen reflekteres også i formelen som brukes for å regne ut sannsynlighetene vi 
+trenger i Naive Bayes. Vis hvordan antakelsen uttrykkes i formelen.
+
+Fasit:
+Dersom vi antar at et gitt objekt (f.eks et dokument) representeres ved n trekk, f1, f2, . . . , fn, så kan den
+såkalte likelihood-termen tilnærmes som P(f1, f2, . . . , fn|c) ≈
+Qn
+i=1   (fi|c). 
+Å gjengi hele NB-formelen gir også uttelling, men det bør gå frem hvilken del av formelen som er relevant og man bør vise 
+hvordan formelen ser ut både før/etter uavhengighetsantakelsen (altså begge sider av ≈).
+
+
+GPT:
+Formelen for sannsynligheten som brukes i Naive Bayes for å klassifisere en ny observasjon, er gitt ved 
+P(C|X) = P(X|C) * P(C) / P(X), der C er klassen, X er observasjonen, P(C|X) er sannsynligheten for at observasjonen X 
+tilhører klassen C, P(X|C) er sannsynligheten for at observasjonen X vil forekomme gitt at den tilhører klassen C, P(C) 
+er sannsynligheten for at klassen C vil forekomme i datamengden, og P(X) er sannsynligheten for at observasjonen X vil 
+forekomme i datamengden. Antakelsen om uavhengighet mellom funksjonsverdier reflekteres i denne formelen ved at P(X|C) kan 
+skrives som produktet av sannsynlighetene for hver enkelt funksjonsverdi, gitt at observasjonen tilhører klassen C.
+
+
+CoPilot:
+P(A|B) = P(A)P(B|A) / P(B)

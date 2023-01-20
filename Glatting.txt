@@ -1,0 +1,29 @@
+---------------------------------------------------------------------------------------------------------------------------
+Forklar med noen få setninger hva som menes med begrepet "glatting" (smoothing), inkludert når/hvorfor det brukes. Nevn 
+eksempler fra pensum der glatting har vært relevant å ta i bruk.
+
+
+GPT:
+Glatting (smoothing) refererer til å modifisere sannsynligheter i en klassifikasjonsmodell for å redusere overfitting og 
+øke generaliseringsevnen. Det brukes når en modell har problemer med å generalisere til nye data, for eksempel når det er 
+lite data tilgjengelig, eller når modellen har svært høy sannsynlighet for noen tilfeller. Glatting kan være nødvendig for 
+å unngå problemer som at enkelte klasser eller funksjonsverdier aldri har vært sett i treningsdataene, og dermed gir en 
+sannsynlighet på 0, noe som kan gjøre modellen ubrukelig.
+
+Eksempler på pensum der glatting har vært relevant å ta i bruk er i Naive Bayes klassifikasjonsmetoden, der glatting kan 
+brukes for å unngå at modellen gir en sannsynlighet på 0 for enkelte klasser eller funksjonsverdier. En annen eksempel er i 
+Language model hvor glatting kan være nødvendig for å unngå at modellen gir en sannsynlighet på 0 for enkelte ord eller 
+ordkombinasjoner.
+
+Fasit:
+Glatting er en type teknikk som brukes for å omfordele sannsynlighetsmasse fra hendelser med mange observasjoner
+til mer sjeldne hendelser der vi har få eller ingen observasjoner i treningsdataene. Vi har brukt glatting i forbindelse
+med å estimere de betingete sannsynlighetene i n-gram språkmodeller og klassifikasjon med Naive Bayes. Der så
+vi at å bruke såkalte “maximum likelihood estimates” (MLE) alene, gitt ved relative frekvenser i treningsdataene,
+kunne medføre det såkalte “zero frequencey problem” når modellen skal anvendes på nye usette data: Manglende
+observasjoner i treningsdataene, for henholdsvis gitte n-grammer eller trekk/klasse-par, vil føre til at sannsynligheten 
+for hele sekvensen eller sannsynligheten for en klasse gitt alle trekkene blir null (fordi alle de inviduelle
+sannsynlighetene multipliseres sammen). Det finnes mange ulike måter å gjøre glatting på, men som eksempel har
+vi sett på metoden add-1 eller Laplace smoothing, som fungerer ved å simpelthen legge til én til frekvensen av alle
+hendelser i sannsynlighetsestimatet.
+

@@ -1,0 +1,52 @@
+
+
+Homonymi: Homonymer er ord som har samme skrivemåte eller uttale, men har forskjellige betydninger. 
+For eksempel "bok" som kan bety en fysisk bok eller en reservasjon.
+
+Meronymi: Meronymer er ord som beskriver en del av en helhet. For eksempel "ben" er en meronym av 
+"kropp"
+
+Hyponymi: Hyponymer er ord som er mer spesifikke enn en annen term. For eksempel "hund" er en 
+hyponym av "dyr"
+
+Antonymi: Antonymer er ord med motsatt betydning. For eksempel "varm" og "kald"
+
+Polysemi: Polysemi refererer til ord som har flere betydninger eller kontekster i språket, for eksempel 
+"bank" kan bety et finansinstitusjon eller en landform langs en elv.
+
+
+1) meronymi
+I setningen "Gi dem fingeren, og de vil ta hele hånden", leksikale relasjoner mellom ordene "fingeren" og "hånden" 
+er meronymi. "Fingeren" er en del av "hånden" og representerer en mindre del av helheten, og i denne setningen er 
+"fingeren" brukt som en metafor for å gi noe mindre, mens "hånden" representerer å ta mer.
+
+2) homonymi
+I setningen "Myrna Vilhamer, som var gift og hadde to barn, ble i går kveld funnet drept. I blodet hennes er det funnet 
+spor av store mengder gift", leksikale relasjoner mellom ordene "gift" er homonymi. I denne setningen, "gift" brukt første 
+gang er en adjektiv som beskriver en person som er gift i et ekteskap, mens "gift" brukt andre gang er et substantiv som 
+refererer til et farlig stoff som kan drepe.
+
+3) Hyponymi
+I setningen "Liljekonvall er en plante du absolutt ikke bør få i deg", leksikale relasjoner mellom ordene "Liljekonvall"
+og "plante" er hyponymi. "Liljekonvall" er et spesifikt navn på en type plante, og er en hyponym av mer generell term 
+"plante", som kan referere til en hvilken som helst type vegetasjon.
+
+4) Antonymi
+I setningen "Årstidene kommer og går, år etter år" leksikale relasjoner mellom ordene "kommer" og "går" er antonymi. 
+"Kommer" og "går" er ord med motsatt betydning, hvor "kommer" refererer til å ankomme eller å være til stede, mens "går" 
+refererer til å forlate eller å være borte. I denne setningen beskriver ordene årstidene som kommer og går i en syklus, 
+hvor de kommer og går, år etter år.
+
+5) Polysemi
+I setningen "Jeg går på veien som går fra øst til vest" leksikale relasjoner mellom ordene "går" er polysemi. "Går" 
+brukt første gang er en verb som beskriver handlingen av å bevege seg på føttene, mens "går" brukt andre gang er 
+en verb som beskriver en vei eller en rute som går fra en retning til en annen. I denne setningen er ordene brukt 
+i to forskjellige kontekster, hvor første går beskriver handlingen jeg gjør, mens andre går beskriver en retning 
+eller en vei.
+
+6) homonymi
+I setningen "Jeg går til en gård" leksikale relasjoner mellom ordene "går" og "gård" er homonymer. "Går" og "gård" 
+er ord med samme skrivemåte og uttale, men har forskjellige betydninger. "Går" er en verb som beskriver handlingen 
+av å bevege seg på føttene, mens "gård" er et substantiv som beskriver en plass hvor dyr holdes og jordbruk utøves. 
+I denne setningen er ordene brukt i to forskjellige kontekster, hvor går beskriver handlingen jeg gjør, mens gård 
+beskriver destinasjonen jeg går til.

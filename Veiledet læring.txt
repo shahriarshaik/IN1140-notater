@@ -1,0 +1,22 @@
+Forklar med 1–2 setninger hva som menes med begrepet "veiledet læring" (supervised learning) innen maskinlæring.
+
+Forklar hva som menes med begrepet "veiledet læring" (supervised learning) innen maskinlæring.
+
+Fasit:
+Veildet læring referer til maskinlæringsalgoritmer der det brukes annoterte (labeled) treningsdata, dvs. eksempler
+på input-data samstilt med riktig output-verdi som vi ønsker at modellen skal lære å predikere.
+
+GPT: 
+Veiledet læring, også kjent som supervised learning, er en metode for maskinlæring der et datamaskinprogram trenes 
+ved å presentere det med et sett med eksempler som inneholder input og ønsket output. Programmet lærer å generere 
+output som samsvarer med de ønskede outputene ved å analysere eksemplene og lage en modell som kan generere outputene.
+Veiledet læring krever at dataene som brukes til trening inneholder korrekte og komplette merkelapper, og det er 
+ofte brukt i klassifiserings- og regresjonsproblemer. Det kan også brukes til å løse andre typer problemer, som å 
+generere tekst eller bilde, eller å utføre klustring.En viktig fordel med veiledet læring er at det gir en klar 
+forståelse av hvordan modellen tar beslutninger, og det gir mulighet for å kontrollere og forbedre ytelsen til modellen 
+ved å gi flere eksempler eller endre parametrene.
+
+
+CoPilot:
+
+

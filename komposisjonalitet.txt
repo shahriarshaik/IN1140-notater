@@ -1,0 +1,35 @@
+
+Forklar hva som menes med prinsippet om komposisjonalitet i semantikk. Begrens svaret ditt til
+1–3 setninger.
+
+komposisjonalitet:
+Orden komposisjonalitet refererer til rekkefølgen av hvordan delene i et sammensatt uttrykk kombineres for å danne den 
+endelige meningen.
+
+semantikk:
+Semantikk er en del av språkvitenskapen som studerer betydningen av ord, uttrykk og setninger
+
+
+
+
+
+Fasit: 
+Essensen er at betydningen av et komplekst uttrykk, altså et uttrykk med flere deler, bestemmes av betydningen til 
+konstituentene og reglene som brukes for å kombinere dem. 
+En enkel måte å beskrive dette på kan være å si at betydningen til en setning er betydningen til hvert enkelt ord + 
+reglene som setter dem sammen.
+
+CoPilot:
+Komposisjonalitet er en form for leksikalsk relasjon mellom ord som refererer til en større helhet.
+Prinsippet om komposisjonalitet i semantikk er en teori som beskriver hvordan ord kan kombineres for å skape nye betydninger.
+
+GPT:
+Komposisjonalitet refererer til hvordan meningen til et sammensatt uttrykk (som en setning) kan bestemmes av meningen til 
+dets deler (som ordene i setningen) og reglene for hvordan disse delene skal kombineres. I semantikk er komposisjonalitet 
+et prinsipp som sier at meningen til et sammensatt uttrykk kan beregnes ved å analysere meningen til dets deler og reglene 
+for hvordan de kombineres. Dette er i motsetning til en holistisk tilnærming, der meningen til et uttrykk skal bestemmes 
+ved å se på uttrykket som helhet.
+
+Sammendrag: 
+En enkel måte å beskrive dette på kan være å si at betydningen til en setning er betydningen til hvert enkelt ord + 
+reglene som setter dem sammen.
