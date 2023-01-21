@@ -1,0 +1,36 @@
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Den vanligste måten å løse Named Entity Recognition (`navnegjenkjenning') på er ved ord-forord klassifisering med bruk av 
+såkalte BIO-labels.
+
+Anta følgende setning:
+Spilte Toralv Maurstad Henrik Ibsen med Riksteateret, på Stokmarknes i fjor?
+
+Angi riktig BIO-klassifisering med riktig kategori for hvert ord i setningen. Her opererer vi med
+følgende kategorier: PER (person), ORG (organisajon), LOC (location), GPE (geopolitical entity)
+
+
+Kategorier som finnes: 
+PER (person)
+ORG (organisajon)
+LOC (location)
+GPE (geopolitical entity)
+
+B: begynner på en entitet
+I: inneholder en entitet
+
+Svar:
+Spilte - O
+Toralv - B-PER
+Maurstad - I-PER
+Henrik - B-PER
+Ibsen - I-PER
+med - O
+Riksteateret - B-ORG
+, - O
+på - O
+Stokmarknes - B-LOC
+i - O
+fjor - O
+? - O
