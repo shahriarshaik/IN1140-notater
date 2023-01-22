@@ -1,0 +1,42 @@
+---------------------------------------------------------------------------------------------------------------------------
+
+1. Beskriv kort hva tokenisering er og hvordan det typisk inngår i et språkteknologisk system. Hvilke andre 
+språkteknologiske oppgaver er avhengig av tokenisering? Gi minst ett eksempel.
+
+2. Hvordan kan output fra en tokeniserer se ut for denne teksten? Skriv en tokenisert versjon av teksten under.
+
+
+3. Tenk deg at du skal lage en regelbasert tokeniserer for teksten under. Hvilke utfordringer ser du som du må ta høyde for 
+i tokenisereren din? Gi minst tre eksempler fra teksten.
+
+Vi søker motiverte medarbeidere og "Team-players" til vår nye supersatsing! Du må kunne salg og være deg selv 110%. For mer 
+informasjon om lønn, arbeidvilkår, osv., ta kontakt via vår hjemmeside http://www.supersjansen.no. Vi ser fram til å høre 
+fra deg!
+
+
+1. 
+fasit: 
+En tokeniserer er et system som deler opp en tekst i løpende ord. Dette gjøres typisk ved å skille ut tegnsetting. 
+Tokenisering er første ledd i mange språkteknologiske oppgaver. Eksempelvis vil både ordklassetagging og Word Sense 
+Disambiguation avhenge av tokenisering som første skritt for å få tak i ordene som skal være input til ordklassetaggeren 
+eller WSD-systemet.
+
+2. 
+fasit:
+Vi søker motiverte medarbeidere og " Team-players " til vår nye super-satsing ! Du må kunne salg og være deg selv 110 %
+ . For mer informasjon om lønn , arbeidvilkår , osv. , ta kontakt via vår hjemmeside http://www.supersjansen.no . Vi ser
+ fram til å høre fra deg !
+
+3.
+fasit:
+I teksten er det en rekke forekomster av ulike typer tegnsetting som må behandles særskilt i en regelbasert tokeniserer, 
+særlig gjelder det tegnsetting som ikke skal skilles ut som egne tokens, eksempelvis når de forekommer som del av en 
+forkortelse (f.eks.), et sammensatt ord (Team-players) eller en URL (http://www.supersjansen.no)
+
+Sammendrag:
+Tokenisering er en prosess som deler opp en tekst i mindre enheter, som kalles tokens. 
+Tokenisering er en viktig del av mange språkteknologiske systemer, og er ofte første ledd i en rekke andre prosesser. 
+Typisk inngår tokenisering i et språkteknologisk system som en del av datainnsamling og forberedelse, hvor tekstene skal 
+analyseres. Tokenisering gjør det mulig å arbeide med tekstene på et mer abstrakt nivå, ved å fokusere på individuelle 
+ord og uttrykk i stedet for å se på hele teksten som en enhet.
+

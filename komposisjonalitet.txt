@@ -1,4 +1,5 @@
 
+
 Forklar hva som menes med prinsippet om komposisjonalitet i semantikk. Begrens svaret ditt til
 1–3 setninger.
 

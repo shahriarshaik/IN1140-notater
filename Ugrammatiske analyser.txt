@@ -1,0 +1,14 @@
+---------------------------------------------------------------------------------------------------------------------------
+
+Grammatikken kan gi opphav til noen ugrammatiske setninger. Diskutér påstanden kort og illustrér med et eksempel:
+
+
+fasit: 
+en mann sover at en katt sitter
+en katt elsker
+
+GPT: 
+Påstanden er sant. Grammatikken er reglene for hvordan ordene i et språk skal plasseres og kombineres for å danne grammatisk 
+korrekte setninger. Men det kan være tilfeller der en person ikke følger reglene fullt ut, noe som resulterer i ugrammatiske 
+setninger.
+Eksempel: "Meg går til butikken" er en ugrammatisk setning

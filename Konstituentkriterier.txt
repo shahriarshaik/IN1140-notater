@@ -1,0 +1,64 @@
+---------------------------------------------------------------------------------------------------------------------------
+
+Vi ønsker å avgjøre hvorvidt "en hund og en katt" er en konstituent i følgende setning:
+en hund og en katt fanger en fugl
+
+Vis hvordan du kan bruke minst to konstituentkriterier for å avgjøre dette.
+
+
+
+Konstituentkriterier
+Konstituent er en begrep som brukes i lingvistikk for å beskrive en del av en setning eller et uttrykk som kan skilles ut 
+og betraktes som en enhet. Dette kan hjelpe til å forstå hvordan setninger er konstruert og hvordan de betyr.
+
+
+
+Det finnes flere ulike tester som kan brukes for å avgjøre om et uttrykk er en konstituent i en setning.
+
+Substitutionstesten: Dette innebærer å erstatte en del av setningen med en pro-forma, som "det" eller "de", for å se om 
+setningen fortsatt gir mening.
+
+Flyttetesten: Dette innebærer å se om en del av setningen kan flyttes til en annen posisjon i setningen uten å endre 
+meningen.
+
+Dele-og-herse-testen: Dette innebærer å forsøke å dele setningen i to ved å plassere et spørsmålstegn eller et komma 
+mellom to ord eller uttrykk, for å se om de kan skilles ut som separate konstituenter.
+
+Koordinasjonstesten: Dette innebærer å se om et uttrykk kan settes sammen med et annet uttrykk ved hjelp av en koordinator, 
+som "og" eller "eller", for å danne en ny, større konstituent.
+
+Skjematesten: Dette innebærer å undersøke om et uttrykk passer inn i en grammatisk skjema eller syntaktisk rolle i 
+setningen.
+
+
+
+andre eksempel på konstituenter:
+"De store, grønne bladene på trærne faller ned i høst." - "de store, grønne bladene" og "på trærne" kan være konstituenter.
+
+"Jeg skal gå til butikken for å kjøpe melk og brød." - "til butikken" og "melk og brød" kan være konstituenter.
+
+"Barnet ler høyt mens det leker med ballen." - "Barnet" og "mens det leker med ballen" kan være konstituenter.
+
+"Bilen min, en rød sportsbil, er min favoritt." - "Bilen min" og "en rød sportsbil" kan være konstituenter.
+
+"De som liker å lese, bruker ofte mye tid på biblioteket." - "De som liker å lese" og "mye tid på biblioteket" kan være 
+konstituenter.
+
+
+
+fasit: 
+- stå alene: Hvem fanger en fugl? En hund og en katt
+- erstatte med pronomen: De fanger en fugl.
+- flytte som enhet: Det er en hund og en katt som fanger en fugl. Alternativt: En fugl
+blir fanget av en hund og en katt.
+
+
+konklusjon:
+
+konstituent beskriver en del av en stening eller et uttrykk som kan skilles ut og betraktes som en enhet. Formålet er at det er
+med på å forstå hvordan setninger er konstruert og hva de betyr. 
+
+for å avgjøre om noe er en konstit utføres det noen tester som er beskrevet over, hvis det viser seg at det er en konstituent
+vil setningen fortsatt ha mening etter at testen har blitt utført.
+
+

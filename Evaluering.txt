@@ -1,0 +1,74 @@
+---------------------------------------------------------------------------------------------------------------------------
+
+En måte å evaluere dialogsystemer på er ved å be mennesker manuelt analysere og og se gjennom to dialoger produsert av 
+systemet, og velge den dialogen de synes var best.
+
+Da vi evaluerte vår Naive Bayes sentimentklassifiserer, brukte vi imidlertid en annen måte å evaluere modellen vår på. Da 
+hadde vi en såkalt "gullstandard", og vi sammenlignet klassene til klassifisereren vår med de virkelige sanne klassene i 
+gullstandarden.
+
+Gullstandarden: er en samling av dialoger som er manuelt klassifisert av mennesker som korrekte klasser / kategorier. 
+
+
+
+
+1. Beskriv kort hvordan vi evaluerte maskinlæringsmodellen vår ved å bruke disse gullstandardklassene.
+
+Fasit:  
+En maskinlæringsmodell evalueres ved bruk av accuracy, precision, recall, og F1. For å kunne regne ut disse målene, teller 
+vi antall sanne positive (true positive), falske negative (false negative), falske positive (false positive), og sanne 
+negative (true negative) disse kombineres i forskjellige måter og gir oss en oversikt over hva klassifisereren klarte å 
+klassifisere rikitig, og hvilke feil den har gjort.
+
+
+
+
+2. Å ha gullstandardannotasjoner for et dialogsystem er ikke alltid ønskelig. Om vi ønsker å ha et system som kan 
+kommunisere med mennesker, og som kan håndtere flere typer samtaler trenger vi et system som kan "kopiere" menneskelige 
+samtaler uten å følge en mal. Kan du tenke deg noen utfordringer innen menneske-menneske kommunikasjon som er viktige å 
+kunne håndtere og som gjør det vanskelig å forholde seg til en gullstandard?
+
+Fasit:
+Menneske-menneske kommunikasjon er utfordrende fordi et system må forstå at under en samtale, har hver sin tur til å snakke. 
+Av og til stiller vi spørsmål og forventer svar, andre ganger stiller vi spørsmål for å be den andre om å utføre noe. Vi 
+gjentar det den andre sier for å vise at vi følger med eller at vi har forstått. Rekkefølgen i en dialog er ikke alltid 
+konsekvent. Vi hopper av og til fra ett tema til et annet, og ombestemmer oss ofte. Mye av samtalene innebærer inferens 
+og implikasjon.
+
+
+GPT:
+Variasjon i språk: Mennesker bruker ofte ulike ord eller uttrykk for å beskrive det samme, og det kan være flere måter å 
+formulere en setning på. Dette kan gjøre det vanskelig å fastsette en fast gullstandard for hvordan en bestemt samtale 
+skal utspille seg.
+
+Kontekstuell avhengighet: Mennesker kan tolke og svare på en melding på forskjellige måter avhengig av konteksten. For 
+eksempel kan en setning ha en annen betydning avhengig av hvem som sier den, hvor den sies, og hva som har blitt sagt 
+tidligere i samtalen.
+
+Usikkerhet og subjektivitet: Menneskelig kommunikasjon kan være fylt med usikkerhet og subjektivitet. For eksempel kan to 
+personer ha forskjellige tolkninger av en melding, og noen ganger kan det være flere tolkninger av en setning som kan være 
+likeverdige.
+
+Non-verbal kommunikasjon: Mennesker bruker ikke bare ord for å kommunisere, men også kroppsspråk, ansiktsuttrykk og tonefall, 
+som kan være svært viktig å ta hensyn til når man skal forstå meningene bak en melding.
+
+Adaptivitet: Mennesker kan tilpasse seg og endre måten de kommuniserer på avhengig av samtalepartneren eller situasjonen. 
+Dette kan gjøre det vanskelig å forholde seg til en fast gullstandard for hvordan en samtale skal utspille seg.
+
+
+
+
+sammendrag: 
+Vi evaluerer maskinlæringsmodell ved å bruke gullstandardklassene. Vi evaluerer for accuracy, precision, recall, og F1-score.
+Vi bruker de til å evaluere om modellen vår er god nok med å generalisere til ny data. 
+
+Menneske-menneske kommunikasjon er utfordrende fordi: 
+- Et system må forstå at under en samtale, har hver sin tur til å snakke.
+- Av og til stiller vi spørsmål og forventer svar.
+- Rekkefølgen i en dialog er ikke alltid konsekvent.
+- Vi hopper av og til fra ett tema til et annet, og ombestemmer oss ofte.
+- Mye av samtalene innebærer inferens og implikasjon.
+- Variasjon i språk og dialekt.
+
+
+
