@@ -1,0 +1,58 @@
+---------------------------------------------------------------------------------------------------------------------------
+
+Trærne på bildet utgjør en liten trebank, et syntaktisk annotert korpus som vi skal benytte oss av i denne oppgaven.
+
+1. Utled en frasestrukturgrammatikk fra de syntaktiske analysene i korpuset og angi grammatikken under.
+2. Er grammatikken din rekursiv? Begrunn svaret ditt.
+
+Skriv ditt svar her
+
+
+1. (tre bilde i h22 oppgave 7)
+tre_1
+S -> NP VP
+NP -> NP KONJ NP
+VP -> V 
+NP -> D N 
+NP -> D N
+
+tre_2
+S -> NP VP
+NP -> D N 
+VP -> V NP
+NP -> D N
+
+tre_3
+S -> NP VP
+NP -> D N
+VP -> V CP
+CP -> C S 
+S -> NP VP
+NP -> D N
+VP -> V 
+
+samlet:
+S -> NP VP
+NP -> D N 
+NP -> NP KONJ NP
+VP -> V 
+VP -> V NP
+VP -> V CP
+CP -> C S 
+
+D -> en
+N -> katt, hund, klem, mann
+V -> sover, elsker, tror
+KONJ -> og
+C -> at
+
+
+2. Grammatikken er rekursiv: 
+NP -> NP KONJ NP
+
+indirekte rekursiv:
+S -> NP VP
+VP -> V CP
+CP -> C S
+
+

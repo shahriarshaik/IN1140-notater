@@ -1,0 +1,60 @@
+---------------------------------------------------------------------------------------------------------------------------
+Her skal vi jobbe med følgende setning:
+
+Når binteren senker seg sakte over byen er det tid for et varmt bad.
+
+Her skal vi jobbe med følgende setning:
+
+
+NOUN Substantiv
+ADJ Adjektiv
+VERB Verb
+PRON Pronomen
+PREP Preposisjon
+CONJ Konjunksjon
+SUBJ Subjunksjon
+ADV Adverb
+DET Determinativ
+
+
+Substantiv: Et substantiv er et ord som brukes til å navngi en person, en ting, et sted eller en idé. Eksempler: bil, 
+jente, by, musikk.
+
+Adjektiv: Et adjektiv beskriver eller modifiserer et substantiv. Eksempler: rød bil, vakker jente, stor by, melodiøs musikk.
+
+Verb: Et verb uttrykker en handling eller en tilstand. Eksempler: kjøre, løpe, være, tenke.
+
+Pronomen: Et pronomen erstatter et substantiv og refererer til en person eller en ting som allerede er nevnt eller 
+forstått. Eksempler: han, henne, det, de.
+
+Preposisjon: En preposisjon viser forholdet mellom et substantiv eller et pronomen og andre ord i setningen. Eksempler: på, 
+under, over, etter.
+
+Konjunksjon: En konjunksjon forbinder ord eller setninger. Eksempler: og, eller, men, fordi.
+
+Subjunksjon: En subjunksjon introduserer en setning som er en del av en annen setning. Eksempler: når, hvis, at, som.
+
+Adverb: Et adverb modifiserer et verb, et adjektiv eller et annet adverb. Eksempler: raskt, vakkert, sakte, virkelig.
+
+Determinativ: Et determinativ er et ord som plasseres foran et substantiv for å angi hvor mange eller hvilken type ting 
+som refereres til. Eksempler: et, disse, hver, mange.
+
+
+
+fasit: 
+Når SUBJ
+vinteren SUBST
+senker VERB
+seg PRON
+sakte ADV
+over PREP
+byen SUBST
+er VERB
+det PRON
+tid SUBST
+for PREP
+et DET
+varmt ADJ
+bad SUBST
+
+

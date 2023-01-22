@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------------------------------------------------------
+Hvilke regler må du utvide grammatikken din med for at den skal kunne gi en analyse for følgende setninger?
+En katt sitter eller sover
+En hund elsker en mann og hater en katt
+
+Skriv ditt svar her
+
+
+Fasit: 
+
+
+VP -> VP KONJ VP
+V -> sitter
+V -> hater
+KONJ -> eller
+
+
+
+
+

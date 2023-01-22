@@ -1,0 +1,55 @@
+---------------------------------------------------------------------------------------------------------------------------
+Anta at vi vil trene en bigram-modell på følgende korpus:
+
+<s> jeg er rar </s>
+<s> rar er jeg </s>
+<s> rar er rar </s>
+
+Besvar følgende spørsmål:
+
+1. Hvor mange unike bigram forekommer i korpuset? Oppgi bigrammene i svaret ditt.
+2. Vis hvordan du kan beregne sannsynligheten for hvert bigram fra korpuset.
+3. Gitt bigram-sannsynlighetene du beregnet over, hva er sannsynligheten for følgende setning? Vis hvordan du kom fram til 
+svaret ditt.
+<s> jeg er jeg </s>
+
+
+svar: 
+1. 8 bigram forekommer i korpuset. De er:
+
+<s> jeg
+jeg er
+er rar
+rar </s>
+<s> rar
+rar er
+er jeg
+jeg </s>
+
+2. 
+<s> jeg er rar </s> (1/3) * (1/2) * (2/3) * (1/2) = 1/12
+<s> rar er jeg </s> (2/3) * (1/2) * (1/3) * (1/2) = 1/12
+<s> rar er rar </s> (2/3) * (1/2) * (2/3) * (1/2) = 1/12
+<s> jeg er jeg </s> (1/3) * (1/2) * (1/3) * (1/2) = 1/12
+
+
+her er beregningen:
+<s> jeg - 1/3
+<s> rar - 2/3
+<s> rar
+
+jeg er - 1/2
+jeg </s> - 1/2
+
+rar er - 1/2
+rar er
+rar </s> - 1/2
+rar </s>
+
+er jeg - 1/3
+er rar - 2/3
+er rar
+
+
+3. 
+<s> jeg er jeg </s> (1/3) * (1/2) * (1/3) * (1/2) = 1/36 = 0.0277777777777778

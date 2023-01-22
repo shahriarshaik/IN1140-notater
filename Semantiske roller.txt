@@ -1,0 +1,37 @@
+---------------------------------------------------------------------------------------------------------------------------
+
+
+Angi semantisk rolle for de *uthevede* ordene (her f˚ar du poeng for riktig svar, men ikke negative poeng for feil svar):
+
+*Jon* rører i suppa
+
+Jon kjører mot *Bergen*
+
+Han kommer fra *Oslo* 
+
+*Jon* hører en lyd
+
+*Nøkkelen* åpner døren
+
+Jon skjærer brød med *en kniv*
+
+
+
+Roller: 
+
+GOAL: 
+
+SOURCE:  
+
+INSTRUMENT: 
+
+AGENT:  
+
+THEME:
+
+EXPERIENCE:
+
+
+
+
+
